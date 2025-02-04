@@ -1,0 +1,5 @@
+
+[wokwi]
+version = 1
+firmware = 'build/um_disparo.uf2'
+elf = 'build/um_disparo.elf'
